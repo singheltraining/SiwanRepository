@@ -1,0 +1,12 @@
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:11  -  Init the properties files. . . .
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:14  -  Opening the Browser : chrome
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:17  -  Navigating the Url : https://www.amazon.in
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:20  -  Selecting the Option book by using locator : searchDropdownBox
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:23  -  Entering the text by using locator : twotabsearchtextbox
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:26  -  Clicked on the element by using locator :nav-search-submit-button
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:11  -  Init the properties files. . . .
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:14  -  Opening the Browser : chrome
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:17  -  Navigating the Url : https://www.amazon.in
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:20  -  Selecting the Option book by using locator : searchDropdownBox
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:23  -  Entering the text by using locator : twotabsearchtextbox
+%{yyyy-MM-dd HH:mm:ss} INFO  TC_006:26  -  Clicked on the element by using locator :nav-search-submit-button
