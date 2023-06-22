@@ -2,7 +2,9 @@ package Antim.Pariksha.ForMakingGoodFuture;
 
 public class DummyClass 
 {
-	int a=10,b=20,c=30;
+
+	int d=200,e=300,f=400;
+  
 	public static void main(String[] args)
 	{	
 		System.out.println("I am first");
